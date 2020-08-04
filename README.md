@@ -29,5 +29,11 @@ To spin up the services:
    - _customer user_:
      - `customer@thingsboard.org`
      - `customer`
+## MQTT
+To send MQTT messages:
+1. open the [websocket client](http://www.hivemq.com/demos/websocket-client/)
+   by [HiveMQ](https://www.hivemq.com/)
+1. connect to the public broker: `broker.mqttdashboard.com`
+1. publish messages to the topic: `mk/thingsboard`
 ---
 Made with 🧡 by [Fabio Michelini](https://bit.ly/mich-cv)
