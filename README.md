@@ -1,2 +1,3 @@
-# Thingsboard MQTT
-Thingsboard IoT platform with Cassandra database and Kafka queue service.
+# ThingsBoard MQTT
+[ThingsBoard](https://thingsboard.io/) IoT platform with [Cassandra](https://cassandra.apache.org/) database and [Kafka](https://kafka.apache.org/) queue service,
+for [MQTT](https://mqtt.org/) demos and tests.
